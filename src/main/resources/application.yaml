@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: off
+
+app:
+    model:
+      captcha-model: https://github.com/JanPalasek/ulozto-captcha-breaker/releases/download/v2.2/model.zip
